@@ -107,6 +107,7 @@ resource_dirs: ["res",
         "lottie",
         "WifiTrackerLib",
         "SettingsLibActivityEmbedding",
+        "faceunlock_framework",
     ],
 
     libs: [
